@@ -38,7 +38,7 @@ In this website, the input for which users provide will be brought to life in a 
 - [﻿NetworkX POC Model](https://app.eraser.io/workspace/lSYwRh5MVTNWc47SFKew?elements=ERtsA5rVoMZuuLqmi9Ukrg) 
 - [﻿Gephi POC](https://app.eraser.io/workspace/lSYwRh5MVTNWc47SFKew?elements=vIyxZGpfKhXgcrj7QJARSw) 
 ### Technical Architecture 
-- [﻿Tools](https://app.eraser.io/workspace/lSYwRh5MVTNWc47SFKew?elements=GNNhAGowrsNmo4ju8DsNtQ) 
+- [﻿System Design](https://app.eraser.io/workspace/lSYwRh5MVTNWc47SFKew?elements=OAP17UarYDoB0IN-MwUY9Q) 
 ### Open and Closed Questions
 - What remains to be discussed?
     - If this should be a website or mobile app. Can it be both?
