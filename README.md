@@ -35,15 +35,16 @@ In this website, the input for which users provide will be brought to life in a 
 - Various statistical models to choose from that shape how the network is displayed
 ### User Flows & Mocks
 - [﻿User Flow](https://app.eraser.io/workspace/lSYwRh5MVTNWc47SFKew?elements=1F_ToZfoku19a-hUJKWdMQ) 
-- [﻿NetworkX POC Model](https://app.eraser.io/workspace/lSYwRh5MVTNWc47SFKew?elements=ERtsA5rVoMZuuLqmi9Ukrg) 
+- [﻿NetworkX POC Model  ](https://app.eraser.io/workspace/lSYwRh5MVTNWc47SFKew?elements=3zXTCETM29YmzmFxn0OAyA) 
 - [﻿Gephi POC](https://app.eraser.io/workspace/lSYwRh5MVTNWc47SFKew?elements=vIyxZGpfKhXgcrj7QJARSw) 
+- [﻿Gephi POC #2 10/22/2023](https://app.eraser.io/workspace/lSYwRh5MVTNWc47SFKew?elements=-7-1Cg1-WiQE82Jgohc2rw) 
 ### Technical Architecture 
 - [﻿System Design](https://app.eraser.io/workspace/lSYwRh5MVTNWc47SFKew?elements=OAP17UarYDoB0IN-MwUY9Q) 
 ### Open and Closed Questions
 - What remains to be discussed?
     - If this should be a website or mobile app. Can it be both?
 - What have we already discussed and decided on?
-    - Make a cool space thing.
+    - Make a cool space thing
 
 
 
